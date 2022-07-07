@@ -1,0 +1,13 @@
+package eu.afea.training.rest;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SprintRestTrainingApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
